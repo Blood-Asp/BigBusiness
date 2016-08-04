@@ -1,8 +1,14 @@
 [
 {
+  "modid": "bigbusiness",
+  "name": "Big Business",
+  "description": "An advanced trading mod for Minecraft.",
   "version": "${version}",
   "mcversion": "${mcversion}",
+  "url": "https://github.com/Blood-Asp/BigBusiness",
   "updateUrl": "",
+  "authorList": ["Blood Asp"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
